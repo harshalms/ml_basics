@@ -27,3 +27,4 @@ print (np.sum(y,axis=1))
 # using "T" to transpose the matrix
 print('Matrix transposition: ')
 print(x.T)
+print('Matrix inverse: ')
